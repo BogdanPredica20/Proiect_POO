@@ -1,0 +1,24 @@
+
+Laptop: Asus  Pret: 3500  Procesor: Intel-i7  Ram: 8  Diagonala: 15.6
+Laptop: Apple  Pret: 7500  Procesor: Intel-i5  Ram: 16  Diagonala: 13.3
+Laptop: Lenovo  Pret: 5000  Procesor: AMD-Ryzen5  Ram: 16  Diagonala: 15.2
+
+Telefon: Samsung  Pret: 3199  Diagonala: 6  Ram: 6  Memorie interna: 256
+Telefon: Huawei  Pret: 1899.99  Diagonala: 6.4  Ram: 4  Memorie interna: 64
+Telefon: iPhone  Pret: 4999.99  Diagonala: 6.1  Ram: 8  Memorie interna: 128
+
+Monitor: HP  Pret: 700  Hz: 120  Diagonala: 20
+Monitor: Philips  Pret: 830  Hz: 120  Diagonala: 24
+Monitor: Lenovo  Pret: 706  Hz: 120  Diagonala: 27
+
+Casti: Sony  Pret: 79.99  Wireless: 0  Anulare digitala: 0
+Casti: Sennheiser  Pret: 879  Wireless: 0  Anulare digitala: 1
+Casti: Audio-Technica  Pret: 249  Wireless: 1  Anulare digitala: 1
+
+Televizor: Samsung  Diagonala: 60  Hd: 1  Hdmi: 1  Pret: 1299.99
+Televizor: Lg  Diagonala: 50  Hd: 1  Hdmi: 1  Pret: 949.99
+Televizor: Orion  Diagonala: 75  Hd: 1  Hdmi: 1  Pret: 2199.99
+
+Mouse: Logitech  Pret: 130  Dpi: 3200  Lungime cablu: 3
+Mouse: Razer  Pret: 150  Dpi: 2400  Lungime cablu: 3
+Mouse: Redragon  Pret: 80  Dpi: 3200  Lungime cablu: 2

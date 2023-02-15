@@ -1,0 +1,88 @@
+Id_comada: 1
+Data comenzii: 07.12.2020
+---------------------------
+Produs: Sony
+Categorie: Casti
+Total de plata: 239.97
+
+
+Id_comada: 2
+Data comenzii: 15.12.2020
+---------------------------
+Produs: Lenovo
+Categorie: Monitor
+Total de plata: 706
+
+
+Id_comada: 3
+Data comenzii: 28.12.2020
+---------------------------
+Produs: Samsung
+Categorie: Telefon
+Total de plata: 6398
+
+
+Id_comada: 4
+Data comenzii: 04.01.2021
+---------------------------
+Produs: Apple
+Categorie: Laptop
+Total de plata: 7500
+
+
+Id_comada: 6
+Data comenzii: 02.01.2021
+---------------------------
+Produs: Apple
+Categorie: Laptop
+Total de plata: 7500
+
+
+Id_comada: 8
+Data comenzii: 29.12.2020
+---------------------------
+Produs: Lenovo
+Categorie: Monitor
+Total de plata: 1412
+
+
+Id_comada: 9
+Data comenzii: 20.12.2020
+---------------------------
+Produs: Samsung
+Categorie: Telefon
+Total de plata: 3199
+
+
+Id_comada: 10
+Data comenzii: 10.01.2021
+---------------------------
+Produs: Razer
+Categorie: Mouse
+Total de plata: 450
+
+
+Id_comada: 11
+Data comenzii: 31.12.2020
+---------------------------
+Produs: Huawei
+Categorie: Telefon
+Total de plata: 1899.99
+
+
+Id_comada: 13
+Data comenzii: 05.01.2021
+---------------------------
+Produs: Audio-Technica
+Categorie: Casti
+Total de plata: 498
+
+
+Id_comada: 14
+Data comenzii: 14.01.2021
+---------------------------
+Produs: HP
+Categorie: Monitor
+Total de plata: 700
+
+
